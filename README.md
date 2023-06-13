@@ -1,6 +1,6 @@
 ## Hi there, I'm Fatma 👋
 
-I'm senior Computer Engineering student from Turkey.
+I 'm working in Mava company as a Full Stack Developer in Turkey.
 
 <!---![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmakaradag&show_icons=true&theme=material-palenight) &nbsp; -->
 
